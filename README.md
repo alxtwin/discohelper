@@ -8,3 +8,5 @@ Um pequeno helper pra ajudar a executar rotinas de bots no discord.
 
 para instalar os requirements basta dar um pip install -r requirements.txt
 as bibliotecas time e webbrowser são nativas do python. se você não as tem, verifique seu python.
+
+para executar, basta usar ** python3 main.py **
