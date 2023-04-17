@@ -4,9 +4,6 @@ Um pequeno helper pra ajudar a executar rotinas de bots no discord.
 
 **O intuito desse mod NÃO é floodar servidores. Não deve ser usado pra isso, e se você usar pra isso espero que seja banido.**
 
-#TODO: transformar em executável para windows.
-#TODO: aprimorar o código para rodar browser headless e evitar que o discord faça gracinha. 
-
 para instalar os requirements basta dar um:
 
 > ```  
@@ -19,3 +16,9 @@ para executar, basta usar:
 > ```  
 > python3 main.py*
 >````
+
+
+
+    checklist:
+    - [ ] transformar em executável para windows.
+    - [ ] aprimorar o código para rodar browser headless e evitar que o discord faça gracinha. 
