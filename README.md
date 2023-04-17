@@ -19,6 +19,6 @@ para executar, basta usar:
 
 
 
-    checklist:
-    - [ ] transformar em executável para windows.
-    - [ ] aprimorar o código para rodar browser headless e evitar que o discord faça gracinha. 
+checklist:
+- [ ] transformar em executável para windows.
+- [ ] aprimorar o código para rodar browser headless e evitar que o discord faça gracinha. 
