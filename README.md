@@ -1,4 +1,4 @@
-### discohelper v1.0
+# discohelper v1.0
 
 Um pequeno helper pra ajudar a executar rotinas de bots no discord. 
 
